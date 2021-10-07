@@ -1,2 +1,8 @@
 fileDec.py
 fileEnc.py
+test.py
+rsaGenerator.py
+myPrivateKey.pem
+myPublicKey.pem
+encrypted_file
+temp.bin
