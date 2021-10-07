@@ -1,2 +1,0 @@
-testing for sending a file from TCP socket
-i hope this program can do the things
